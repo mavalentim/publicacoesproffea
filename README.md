@@ -1,2 +1,2 @@
-# publicacoes professores de econo da fea
-Nesse repositório estão 1- dados do Currículo Lattes dos professores da FEA e 2-um script que faz uma breve análise desses dados, levando a alguns gráficos.
+# Publicações e Dados de Professores de Econonomia da FEAUSP
+Nesse repositório estão dados do Currículo Lattes dos professores da FEA e um R script que faz uma breve análise desses dados, levando a alguns gráficos. O intuito é automatizar o processo via webscrapping.
